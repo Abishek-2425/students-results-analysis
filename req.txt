@@ -1,0 +1,13 @@
+readr
+dplyr
+ggplot2
+scales
+gridExtra
+corrplot
+stringr
+
+
+install.packages(
+    c("readr", "dplyr", "ggplot2", "scales", "gridExtra", "corrplot", "stringr"),
+    repos = "https://cloud.r-project.org"
+    )
